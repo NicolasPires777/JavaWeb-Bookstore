@@ -7,7 +7,6 @@ Este projeto é um sistema simples de cadastro de livros usando Java Web com Ser
 - **Java 21** ou superior (certifique-se de que o `JAVA_HOME` está configurado corretamente)
 - **Apache Tomcat 9**
 - **Eclipse IDE** (ou outra IDE de sua preferência)
-- **Maven** (para gerenciamento de dependências)
 
 ## Configuração do Ambiente
 
@@ -30,7 +29,7 @@ Este projeto é um sistema simples de cadastro de livros usando Java Web com Ser
      ```
 
 4. **Importar o projeto no Eclipse**:
-   - No Eclipse, vá em `File` -> `Import` -> `Maven` -> `Existing Maven Projects`.
+   - No Eclipse, vá em `File` -> `Open Project from a File System`.
    - Selecione o diretório onde o projeto foi clonado.
 
 5. **Configuração do Tomcat**:
